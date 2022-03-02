@@ -8,4 +8,4 @@ Two final draft Bitcoin community documents that guarentee personal and communal
 
 Please feel free to suggest pull requests to this repository.
 
-Licensed Creative Commons Attribution 4.0 International
+[Licensed Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
