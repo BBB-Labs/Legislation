@@ -1,5 +1,5 @@
 # Documentation
-### Documentation for guarenteed Bitcoin operational freedom.
+### Legislation for guarenteed Bitcoin operational freedom.
 
 Two final draft Bitcoin community documents that guarentee personal and communal freedom and self-sovereignty:
 
